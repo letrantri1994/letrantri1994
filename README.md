@@ -1,2 +1,2 @@
 # proxyv6
-bash <(curl -s "https://raw.githubusercontent.com/trantri1994/trantri1994/main/taoproxykopasssosanh.sh")
+bash <(curl -s "https://raw.githubusercontent.com/letrantri1994/letrantri1994/main/regproxykopass.sh")
